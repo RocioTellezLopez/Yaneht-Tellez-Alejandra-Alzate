@@ -1,0 +1,47 @@
+[2024-05-21 21:06:23] [ ERROR] [OdontologoServiceTest:28] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-224]
+[2024-05-21 21:15:09] [ ERROR] [OdontologoServiceTest:28] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-224]
+[2024-05-21 21:17:37] [ INFO ] [OdontologoDaoH2:42] Odontologo guardado: Odontologo id=3, numeroMatricula=123789, nombre='juan', apellido='Perez
+[2024-05-21 21:18:45] [ INFO ] [OdontologoDaoH2:42] Odontologo guardado: Odontologo id=3, numeroMatricula=123789, nombre='juan', apellido='Perez
+[2024-05-21 21:30:54] [ INFO ] [OdontologoDaoH2:42] Odontologo guardado: Odontologo id=3, numeroMatricula=456789, nombre='Dina', apellido='Sanchez
+[2024-05-21 21:30:54] [ INFO ] [OdontologoDaoH2:93] Tabla "ODONTOLOGO" no encontrada
+Table "ODONTOLOGO" not found; SQL statement:
+SELECT * FROM odontologo [42102-224]
+[2024-05-21 21:31:29] [ INFO ] [OdontologoDaoH2:42] Odontologo guardado: Odontologo id=3, numeroMatricula=456789, nombre='Dina', apellido='Sanchez
+[2024-05-21 21:31:29] [ INFO ] [OdontologoDaoH2:93] Tabla "ODONTOLOGO" no encontrada
+Table "ODONTOLOGO" not found; SQL statement:
+SELECT * FROM odontologo [42102-224]
+[2024-05-21 21:31:41] [ INFO ] [OdontologoDaoH2:42] Odontologo guardado: Odontologo id=3, numeroMatricula=456789, nombre='Dina', apellido='Sanchez
+[2024-05-21 21:31:41] [ INFO ] [OdontologoDaoH2:93] Tabla "ODONTOLOGO" no encontrada
+Table "ODONTOLOGO" not found; SQL statement:
+SELECT * FROM odontologo [42102-224]
+[2024-05-21 21:31:44] [ INFO ] [OdontologoDaoH2:42] Odontologo guardado: Odontologo id=3, numeroMatricula=456789, nombre='Dina', apellido='Sanchez
+[2024-05-21 21:31:44] [ INFO ] [OdontologoDaoH2:93] Tabla "ODONTOLOGO" no encontrada
+Table "ODONTOLOGO" not found; SQL statement:
+SELECT * FROM odontologo [42102-224]
+[2024-05-21 21:32:38] [ INFO ] [OdontologoDaoH2:42] Odontologo guardado: Odontologo id=3, numeroMatricula=456789, nombre='Dina', apellido='Sanchez
+[2024-05-21 21:32:38] [ INFO ] [OdontologoDaoH2:93] Tabla "ODONTOLOGO" no encontrada
+Table "ODONTOLOGO" not found; SQL statement:
+SELECT * FROM odontologo [42102-224]
+[2024-05-21 21:33:02] [ INFO ] [OdontologoDaoH2:42] Odontologo guardado: Odontologo id=3, numeroMatricula=456789, nombre='Dina', apellido='Sanchez
+[2024-05-21 21:33:02] [ INFO ] [OdontologoDaoH2:93] Tabla "ODONTOLOGO" no encontrada
+Table "ODONTOLOGO" not found; SQL statement:
+SELECT * FROM odontologo [42102-224]
+[2024-05-21 21:34:59] [ INFO ] [OdontologoDaoH2:42] Odontologo guardado: Odontologo id=3, numeroMatricula=456789, nombre='Dina', apellido='Sanchez
+[2024-05-21 21:34:59] [ INFO ] [OdontologoDaoH2:88] Todos los odontologos obtenidos
+[2024-05-21 21:34:59] [ INFO ] [OdontologoDaoH2:88] Todos los odontologos obtenidos
+[2024-05-21 21:34:59] [ INFO ] [OdontologoDaoH2:88] Todos los odontologos obtenidos
+[2024-05-21 21:35:08] [ INFO ] [OdontologoDaoH2:42] Odontologo guardado: Odontologo id=3, numeroMatricula=456789, nombre='Dina', apellido='Sanchez
+[2024-05-21 21:35:08] [ INFO ] [OdontologoDaoH2:88] Todos los odontologos obtenidos
+[2024-05-21 21:35:08] [ INFO ] [OdontologoDaoH2:88] Todos los odontologos obtenidos
+[2024-05-21 21:35:08] [ INFO ] [OdontologoDaoH2:88] Todos los odontologos obtenidos
+[2024-05-21 21:35:17] [ INFO ] [OdontologoDaoH2:42] Odontologo guardado: Odontologo id=3, numeroMatricula=456789, nombre='Dina', apellido='Sanchez
+[2024-05-21 21:35:17] [ INFO ] [OdontologoDaoH2:88] Todos los odontologos obtenidos
+[2024-05-21 21:35:17] [ INFO ] [OdontologoDaoH2:88] Todos los odontologos obtenidos
+[2024-05-21 21:35:17] [ INFO ] [OdontologoDaoH2:88] Todos los odontologos obtenidos
+[2024-05-21 21:40:12] [ INFO ] [OdontologoEnMemoria:22] Odontologo guardado: Odontologo id=1, numeroMatricula=123789, nombre='juan', apellido='Perez
+[2024-05-21 21:41:50] [ INFO ] [OdontologoEnMemoria:22] Odontologo guardado: Odontologo id=1, numeroMatricula=456789, nombre='Dina', apellido='Sanchez
+[2024-05-21 21:42:01] [ INFO ] [OdontologoEnMemoria:22] Odontologo guardado: Odontologo id=1, numeroMatricula=456789, nombre='Dina', apellido='Sanchez
